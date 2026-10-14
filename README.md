@@ -1,16 +1,16 @@
 # Hi, I'm Yemi Odugbesan 👋
 
-### Senior Technical Program Manager | AI Program Delivery & Governance
+### Senior Technical Program Manager | AI Program Delivery
 
-I help organizations turn AI and technology initiatives into governed, delivered results. I bring 20+ years in enterprise IT across financial services, insurance, and retail, leading program delivery, Agile transformation, and cloud/platform modernization.
+I help organizations turn technology and AI initiatives into delivered results. I bring 20+ years in enterprise IT across financial services, insurance, and retail, leading program delivery, Agile transformation, and cloud/platform modernization.
 
-My doctoral research focuses on **third-party cyber risk governance and NIST CSF 2.0 maturity**, which shapes how I approach responsible, well-governed AI programs.
+I'm currently pursuing a PhD in IT Project Management, researching **third-party cyber risk governance and NIST CSF 2.0 maturity**. That research informs my interest in responsible, well-governed AI programs.
 
 ---
 
 ### 🔍 What I focus on
 - **AI program delivery:** scoping, roadmaps, risk, and stakeholder alignment for AI initiatives
-- **AI governance:** applying NIST AI RMF and NIST CSF 2.0 to AI and third-party vendor risk
+- **Responsible AI:** building working knowledge of NIST AI RMF and NIST CSF 2.0 through my doctoral studies
 - **Agile at scale:** SAFe and Scrum practices for complex, cross-functional programs
 - **Hands-on AI building:** using AI tools to design and ship real applications
 
@@ -20,7 +20,7 @@ My doctoral research focuses on **third-party cyber risk governance and NIST CSF
 | Project | What it shows |
 |---|---|
 | [Violet — Lupus Daily Journal](https://github.com/YemiAI-PM/violet-lupus-journal) | A live, faith-centered journaling app for people living with lupus, scoped, built, and shipped in 3 days with AI. [Try it live](https://violet-lupus.netlify.app). |
-| AI Governance Framework *(in progress)* | Mapping NIST AI RMF to NIST CSF 2.0 for third-party AI vendor risk |
+| AI Governance Framework *(learning project, in progress)* | Exploring how NIST AI RMF and NIST CSF 2.0 apply to third-party AI vendor risk |
 | AI Program Delivery Playbook *(in progress)* | Intake template, risk register, model evaluation checklist, and RACI for AI rollouts |
 
 ---
@@ -35,5 +35,4 @@ My doctoral research focuses on **third-party cyber risk governance and NIST CSF
 ---
 
 ### 🤝 Connect
-- LinkedIn: linkedin.com/in/yemi-odugbesan
-- 
+- LinkedIn: [Yemi Odugbesan](https://www.linkedin.com/in/yemi-odugbesan)
